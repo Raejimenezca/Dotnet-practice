@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ptnCcy9Ve9/dOt7mXbmNvQh/skk6Ai9REyS2/xky1R5fduSKiUNdKAtAlNEvTrXh2QGDOtFEb7ryIc1qVgNoaw==",
+  "dgSpecHash": "wNx/UXsxVK0dOanqiWC1th8BBWfVnyDPFMjUY8Sq7iZdxSID9YJHbZsLJXH85JJfhOpuQovg8cgM5qatAF0MAg==",
   "success": true,
-  "projectFilePath": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/GIT-NET/myWebApp/myWebApp.csproj",
+  "projectFilePath": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/Dotnet/Dotnet-practice/myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
