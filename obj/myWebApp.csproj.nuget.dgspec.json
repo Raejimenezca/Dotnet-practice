@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/GIT-NET/myWebApp/myWebApp.csproj": {}
+    "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/Dotnet/Dotnet-practice/myWebApp.csproj": {}
   },
   "projects": {
-    "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/GIT-NET/myWebApp/myWebApp.csproj": {
+    "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/Dotnet/Dotnet-practice/myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/GIT-NET/myWebApp/myWebApp.csproj",
+        "projectUniqueName": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/Dotnet/Dotnet-practice/myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/GIT-NET/myWebApp/myWebApp.csproj",
+        "projectPath": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/Dotnet/Dotnet-practice/myWebApp.csproj",
         "packagesPath": "/Users/r.jimenez.cabrera/.nuget/packages/",
-        "outputPath": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/GIT-NET/myWebApp/obj/",
+        "outputPath": "/Users/r.jimenez.cabrera/Documents/Azure DevOps practice/Dotnet/Dotnet-practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/r.jimenez.cabrera/.nuget/NuGet/NuGet.Config"
